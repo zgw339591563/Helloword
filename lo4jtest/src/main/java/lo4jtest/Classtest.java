@@ -15,7 +15,12 @@ public class Classtest {
 		int i=0;
       //DDDDDDDD
 		int j=1;
+
 	//2222222222kkkk
+
+       //SSSSSSSSSSSS
+		//----------------------
+
 		 int t=0;
      //00000000000
 
