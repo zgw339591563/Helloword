@@ -28,6 +28,6 @@ public class Classtest {
   
 
 	//分支2在gittest这边提交
-
+   //测试reset
 	}
 }
