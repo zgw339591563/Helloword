@@ -1,12 +1,11 @@
 package lo4jtest;
 
-
-
 import java.util.logging.Level;
 
 public class Classtest {
 	/**
 	 * Logger for this class
+	 * ssssssssssssssssssssssssssss
 	 * 
 	 * 
 	 * aaaaaaaaaaaaaaaaa
@@ -18,6 +17,7 @@ public class Classtest {
 
 		 int t=0;
      //00000000000
+
 	//主干合并分支测试
    //主干合并分支测试
 		//主干合并分支测试
@@ -26,5 +26,7 @@ public class Classtest {
 		   //主干合并分支测试
 				//主干合并分支测试
 				   //主干合并分支测试
+	//主干第一次提交
+
 	}
 }
