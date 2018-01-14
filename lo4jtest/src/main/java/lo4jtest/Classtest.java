@@ -19,5 +19,6 @@ public class Classtest {
 		 int t=0;
      //00000000000
    //·ÖÖ§2
+  
 	}
 }
